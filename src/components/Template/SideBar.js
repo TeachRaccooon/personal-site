@@ -19,11 +19,8 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Maksim. I am a forth-year Computer Science Ph.D student at the <a href="https://icme.stanford.edu/">University of Tennessee Knoxville</a> graduate, YC Alumni,
-        and the VP of Engineering at <a href="https://smileidentity.com">Smile Identity</a>. Previously,
-        I was the co-founder and CTO of <a href="https://arthena.com">Arthena</a>
-        , co-founder of <a href="https://matroid.com">Matroid</a>, and worked at
-        {' '}<a href="https://planet.com">Planet</a> and <a href="https://facebook.com">Facebook</a>.
+      <p>Hi, I&apos;m Maksim. I am a forth-year Computer Science Ph.D student at the <a href="https://www.utk.edu/">University of Tennessee Knoxville</a> and
+        a graduate research assistant at the <a href="https://icl.utk.edu/">Innovative Computing Laboratory</a>.
       </p>
       <ul className="actions">
         <li>
@@ -34,7 +31,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Maksim Melnichenko <Link to="/">https://teachraccooon.github.io/personal-site/</Link>.</p>
     </section>
   </section>
 );
