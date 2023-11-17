@@ -9,10 +9,10 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/me2.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
+        <h2>Maksim Y Melnichenko</h2>
         <p><a href="mailto:m.y.melnich@gmail.com">m.y.melnich@gmail.com</a></p>
       </header>
     </section>
