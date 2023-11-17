@@ -31,7 +31,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Maksim Melnichenko <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Maksim Melnichenko <Link to="/">TeachRaccooon.github.io/personal-site</Link>.</p>
     </section>
   </section>
 );
