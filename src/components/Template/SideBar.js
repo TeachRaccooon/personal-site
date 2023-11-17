@@ -9,7 +9,7 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me2.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
         <h2>Maksim Y Melnichenko</h2>
@@ -31,7 +31,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Maksim Melnichenko <Link to="/">https://teachraccooon.github.io/personal-site/</Link>.</p>
+      <p className="copyright">&copy; Maksim Melnichenko <Link to="/">mldangelo.com</Link>.</p>
     </section>
   </section>
 );
