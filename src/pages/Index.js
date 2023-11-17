@@ -5,7 +5,7 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={'Personal website of Maksim Melnichenko.'}
+    description='Personal website of Maksim Melnichenko.'
   >
     <article className="post" id="index">
       <header>
@@ -13,7 +13,8 @@ const Index = () => (
           <h2><Link to="/">About this site</Link></h2>
           <p>
             A beautiful, responsive, statically-generated,
-            react application written with modern Javascript, totally not taken from an open-source template.
+            react application written with modern Javascript, 
+             totally not taken from an open-source template.
           </p>
         </div>
       </header>
